@@ -1,4 +1,4 @@
-# [Tên Dự Án Của Bạn] API
+Dự án đầu tiên trong dotnet
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat&logo=dotnet)
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
